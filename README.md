@@ -11,3 +11,10 @@ This means that Subscribers and Publishers are connected to a message broker wit
 
 ## RabbitMQ Management
 ![alt text](rabbitmq.png)
+
+# Send Processing Event
+
+![alt text](console.png)
+
+## Monitoring Chart
+![alt text](monitor.png)
